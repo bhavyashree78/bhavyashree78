@@ -15,23 +15,23 @@ Data-Driven Decision Making, Business Intelligence & Analytics, Data Storytellin
  	Soft Skills: Problem Solving, Presentation, Critical Thinking, Effective Communication
 
   ### 🔭PROFESSIONAL EXPERIENCE
-Business Analyst Intern - Analogica	March 2025 - Present
-Identifying the Documents based on certain Rules with the Project theme and apply the same Data into the Application Provided by the team.
-Different Protocols and Standards was sustained with different Projects.
-External Project Associate - Exigent & Manthan Legal     March 2013 - March 2015   
-Assisted in analyzing and documenting business process, identifying opportunities for improvement, and recommending data-driven solutions.
-Conducted data analysis to support decision-making and business strategy.
-Created and maintained detailed reports, presentations and documentation.
-Assisted in the creation of business process models and workflows to improve operational efficiency.   
-Gained hands-on experience with business analysis tools such as Excel, SQL, Power-Bl, Tableau.
+- Business Analyst Intern - Analogica	March 2025 - Present
+- Identifying the Documents based on certain Rules with the Project theme and apply the same Data into the Application Provided by the team.
+- Different Protocols and Standards was sustained with different Projects.
+- External Project Associate - Exigent & Manthan Legal     March 2013 - March 2015   
+- Assisted in analyzing and documenting business process, identifying opportunities for improvement, and recommending data-driven solutions.
+- Conducted data analysis to support decision-making and business strategy.
+- Created and maintained detailed reports, presentations and documentation.
+- Assisted in the creation of business process models and workflows to improve operational efficiency.   
+- Gained hands-on experience with business analysis tools such as Excel, SQL, Power-Bl, Tableau.
 
 ### EDUCATION
-Bachelor of Computer Science Engineering
-Visvesvaraya Technological University (VTU)	Aug 2015 - June 2021|
-Diploma in Computer Science and Engineering 
+- Bachelor of Computer Science Engineering at East West Institute of Technology affiliated by 
+Visvesvaraya Technological University (VTU)	Aug 2015 - June 2021
+- Diploma in Computer Science and Engineering at MEI Polytechnic affiliated by 
 Visvesvaraya Technological University (VTU)	Oct 2010 - May 2015|
-Standard X
-The New Cambridge High School(KSEC)	June 2006 - March 2007
+- Standard X at The New Cambridge High School affiliated by 
+Karnataka Secondary Education Examination Board	June 2006 - March 2007
 
   ### Certification
   Business Analytics Certification at Certisured during Nov 2024 - March 2025 &
